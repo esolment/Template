@@ -17,5 +17,5 @@ install-requires = [ # List of required libraries
     "requests"
 ]
 requires-minders = [ # List of required minders
-    "HelloWorld"
+    "esolment_HelloWorld"
 ]
